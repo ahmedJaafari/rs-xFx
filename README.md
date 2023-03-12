@@ -7,7 +7,7 @@
 - Provider programming language: Java. We leverage the power of Spring Boot as an opinionated application framework to easily develop and expose a basic web service
 - Consumer programming language: Python (Generated through Swagger tools)
 
-## Development Process (Java-first)
+## Development Process (Code-first)
 ### Define the API endpoints
 Define RESTful API endpoints for browsing the shared folder, renaming files/folders, downloading files, uploading files, and deleting files.
 
